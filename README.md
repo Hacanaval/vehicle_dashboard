@@ -9,3 +9,6 @@ Histograma del kilometraje: Permite visualizar la distribución del kilometraje 
 Gráfico de dispersión: Muestra la relación entre el precio y el kilometraje de los autos.
 
 Interactividad: Los gráficos pueden generarse mediante casillas de verificación, facilitando la exploración de los datos.
+
+URL: https://vehicle-dashboard-hugo-canaval.onrender.com
+
